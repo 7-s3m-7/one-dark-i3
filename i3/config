@@ -16,8 +16,8 @@ bar {
     focused_workspace  #61AFEF #61AFEF #282C34
     active_workspace   #282C34 #282C34 #ABB2BF
     inactive_workspace #282C34 #282C34 #ABB2BF
-    urgent_workspace   #BE5046 #BE5046 #ABB2BF
-    binding_mode       #BE5046 #BE5046 #ABB2BF
+    urgent_workspace   #BE5046 #BE5046 #282C34
+    binding_mode       #BE5046 #BE5046 #282C34
   }
 }
 
