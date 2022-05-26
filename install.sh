@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Packages
+sudo pacman -S feh
+sudo pacman -S picom
+
 # i3
 sudo mkdir ~/.config
 sudo mkdir ~/.config/i3
