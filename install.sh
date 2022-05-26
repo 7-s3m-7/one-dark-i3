@@ -1,5 +1,4 @@
 #!/bin/sh
-git clone https://github.com/7-s3m-7/one-dark-13
 sudo cp ~/one-dark-i3/i3/config ~/.config/i3/config
 sudo mkdir ~/.config/i3status
 sudo touch ~/.config/i3status/config
