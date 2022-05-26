@@ -1,4 +1,5 @@
 #!/bin/sh
+sudo cp ~/one-dark-i3/Wallpapers ~/Wallpapers
 sudo cp ~/one-dark-i3/i3/config ~/.config/i3/config
 sudo mkdir ~/.config/i3status
 sudo touch ~/.config/i3status/config
